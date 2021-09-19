@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="62aba15c-c9b3-4314-9fc0-a3223d1a5b97" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee_register/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_register/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/employee_register/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_register/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee_register/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_register/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +46,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632075835941</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="working on employee form">
+      <created>1632075887216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632075887216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -51,18 +61,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="working on employee form" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1632075833866">
+    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1632075886197">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1632075833866" />
+    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1632075886197" />
     <state x="92" y="92" width="1182" height="544" key="VCS.FileHistoryDialog" timestamp="1632075880905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="VCS.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1632075880905" />
-    <state x="175" y="17" key="Vcs.Push.Dialog.v2" timestamp="1632075838141">
+    <state x="175" y="17" key="Vcs.Push.Dialog.v2" timestamp="1632075888601">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="17" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1632075838141" />
+    <state x="175" y="17" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1632075888601" />
     <state x="314" y="146" key="com.intellij.ide.util.TipDialog" timestamp="1632075607288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

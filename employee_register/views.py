@@ -15,7 +15,7 @@ def employee_form(request):
         form = EmployeeForm(request.POST)
         if form.is_valid():
             form.save()
-        return redirect("/employee/list")
+        return redirect("employee_list")
 
 
 def employee_delete(request):
