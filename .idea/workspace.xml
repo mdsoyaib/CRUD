@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62aba15c-c9b3-4314-9fc0-a3223d1a5b97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee_register/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_register/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee_register/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_register/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee_register/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_register/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee_register/templates/employee_register/employee_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/employee_register/templates/employee_register/employee_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/employee_register/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_register/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee_register/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_register/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +36,33 @@
       <option name="presentableId" value="Default" />
       <updated>1631725436813</updated>
     </task>
+    <task id="LOCAL-00001" summary="working on employee form">
+      <created>1632075835941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632075835941</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working on employee form" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on employee form" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1632075833866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1632075833866" />
+    <state x="92" y="92" width="1182" height="544" key="VCS.FileHistoryDialog" timestamp="1632075880905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="VCS.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1632075880905" />
+    <state x="175" y="17" key="Vcs.Push.Dialog.v2" timestamp="1632075838141">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="17" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1632075838141" />
     <state x="314" y="146" key="com.intellij.ide.util.TipDialog" timestamp="1632075607288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
